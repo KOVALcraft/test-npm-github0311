@@ -1,0 +1,24 @@
+{
+  "name": "test-npm-github0311",
+  "version": "0.0.1",
+  "description": "test npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KOVALcraft/test-npm-github0311.git"
+  },
+  "keywords": [
+    "test",
+    "npm",
+    "package"
+  ],
+  "author": "Vit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KOVALcraft/test-npm-github0311/issues"
+  },
+  "homepage": "https://github.com/KOVALcraft/test-npm-github0311#readme"
+}
